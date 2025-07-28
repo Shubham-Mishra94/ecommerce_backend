@@ -139,9 +139,9 @@ Summary of Features
 -- Structured modular app design (core app only)
 
 
-FROM CODER 
+FROM CODER :
           This backend is designed for scalable and extensible eCommerce development.
-          If you need production deployment support (Docker/Nginx/Gunicorn), feel free to reach out!
+          If you need production deployment support AWS, Docker and GCP, feel free to reach out!
 
 
 
